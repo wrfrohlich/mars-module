@@ -1,0 +1,88 @@
+Class Accuracy
+99.99
+99.97
+
+Class Accuracy
+99.99
+99.98
+
+Class Accuracy
+99.99
+99.97
+
+Class Accuracy
+99.99
+99.98
+
+Class Accuracy
+99.99
+99.97
+
+Class Accuracy
+99.99
+99.97
+
+Class Accuracy
+99.99
+99.97
+
+Class Accuracy
+99.99
+99.97
+
+Class Accuracy
+99.99
+99.97
+
+Class Accuracy
+99.99
+99.97
+
+Class Accuracy
+99.99
+99.98
+
+Class Accuracy
+99.99
+99.98
+
+Class Accuracy
+99.99
+99.97
+
+Class Accuracy
+99.99
+99.98
+
+Class Accuracy
+99.99
+99.97
+
+Class Accuracy
+99.99
+99.97
+
+Class Accuracy
+99.99
+99.97
+
+Class Accuracy
+99.94
+99.97
+
+Class Accuracy
+99.78
+99.85
+
+Class Accuracy
+99.25
+98.94
+
+Class Accuracy
+99.94
+99.97
+
+Class Accuracy
+99.94
+99.97
+
