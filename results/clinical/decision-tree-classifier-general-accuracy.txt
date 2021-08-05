@@ -1,0 +1,4 @@
+Final accuracy: 99.60
+Final accuracy: 97.19
+Final accuracy: 98.73
+Final accuracy: 99.60

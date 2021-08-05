@@ -23,3 +23,8 @@ Class Accuracy
 97.36
 99.75
 
+Class Accuracy
+97.31
+97.36
+99.75
+
