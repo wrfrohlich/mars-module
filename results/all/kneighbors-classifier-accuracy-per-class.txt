@@ -1,0 +1,25 @@
+Class Accuracy
+96.55
+96.04
+97.75
+
+Class Accuracy
+96.55
+96.04
+97.75
+
+Class Accuracy
+96.05
+95.22
+97.18
+
+Class Accuracy
+79.92
+76.66
+83.73
+
+Class Accuracy
+96.55
+96.04
+97.75
+
